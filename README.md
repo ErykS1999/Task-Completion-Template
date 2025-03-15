@@ -1,5 +1,5 @@
 <h1 align = "center">Hi! I'm Eryk</h1>
-h3 align = "center">I will present the overall presentation of the document below</h3>
+I will present the overall presentation of the document below
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eryks1999&label=Profile%20views&color=0e75b6&style=flat" alt="eryks1999" /> </p>
 
