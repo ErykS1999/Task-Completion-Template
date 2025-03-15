@@ -15,6 +15,4 @@ https://github.com/user-attachments/assets/b0fee928-e0c9-4844-a2d3-2c0d83d57404
 
 - Fun Fact **I study python/sql/excel around 4-5 hours per day**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
